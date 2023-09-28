@@ -1,8 +1,8 @@
 
 
-package jenkins1;
+package jenkins;
 
-public class Jenkins1 {
+public class Jenkins {
 
     public static void main(String[] args) {
         
